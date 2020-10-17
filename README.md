@@ -1,2 +1,2 @@
 # hello-world
-following the hello-world tutorial
+This code snippet is to understand git and github, and use it to learn/advance my coding skills.
